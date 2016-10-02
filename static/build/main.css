@@ -1,0 +1,19 @@
+.button_button_3f70C {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #999;
+    cursor: pointer;
+
+    &:hover {
+        background: red;
+    }
+}
+
+.button_active_1ZeZg {
+    background: green;
+}
+.buttons_buttons_25JX6 > .buttons_button_1J0cn {
+    display: inline-block;
+    margin-right: 20px;
+}
